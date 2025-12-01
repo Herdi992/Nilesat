@@ -44,7 +44,7 @@ https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png", MBC 1 
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png", MBC 2
-https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/tracks-v1a1/mono.m3u8?nimblesessionid=1325202887
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png", MBC 3 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png", MBC 4 (1080p)
@@ -55,6 +55,7 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://helga.iptv2022.com/sh/Al_Jazeera_Documentary/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
 #EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://yt3.googleusercontent.com/AFUZ79or1rvrFKbfaMDdoJ1n_814lANCdUOdH0mdGRmcYfIfDH4cfTWwyUkHwie2I2xJPlaTJg=s512-c-k-c0x00ffffff-no-rj" group-title="Documentary",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
 
 
 
